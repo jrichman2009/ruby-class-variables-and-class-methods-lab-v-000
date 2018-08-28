@@ -19,6 +19,9 @@ class Song
     @@count
   end
 
+  def genres
+    @@genres.uniq
+  end
 
 
 end
