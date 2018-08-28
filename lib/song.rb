@@ -38,6 +38,7 @@ class Song
       else
         unique_genres[genre] = 1
       end
+    end
 
   end
 
